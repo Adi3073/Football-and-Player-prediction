@@ -46,7 +46,7 @@ This project aims to predict football game outcomes and player performance using
 
 - **Programming Language:** Python
 - **Machine Learning Libraries:** TensorFlow, Keras, PyTorch
-- **Computer Vision Libraries:** OpenCV, YOLOv5
+- **Computer Vision Libraries:** OpenCV, YOLOv8
 - **Data Processing Libraries:** Pandas, NumPy
 - **Visualization Libraries:** Matplotlib, Seaborn
 - **Other Tools:** Jupyter Notebook
