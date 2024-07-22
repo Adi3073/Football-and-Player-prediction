@@ -40,30 +40,7 @@ Here is a README file template for your GitHub repository:
 
 This project aims to predict football game outcomes and player performance using machine learning and deep learning techniques.
 
-## Project Structure
 
-```
-```
-Football-and-Player-prediction-main/
-├── CODE/
-│   ├── YOLOv5.ipynb
-│   ├── create_annotations.py
-│   ├── download_weights.sh
-│   ├── make_dataset.py
-│   ├── prepare_data.py
-│   ├── requirements.txt
-├── DATA/
-│   ├── ... (many data files)
-├── TEST/
-│   ├── 2022-10-30T224624Z_1616832025_MT1USATODAY19332464_RTRMADP_3_MLS-AUDI-2022-MLS-CUP-PLAYOFFS-CONFERENCE-FINALS-AUSTIN-FC-AT-LOS-ANGELES-FC.jpg
-│   ├── 3878.jpg
-│   ├── ... (many test files)
-├── vids/
-│   ├── messi.mp4
-│   ├── vid.txt
-├── README.md
-└── .gitignore
-```
 
 ## Tech Stack
 
